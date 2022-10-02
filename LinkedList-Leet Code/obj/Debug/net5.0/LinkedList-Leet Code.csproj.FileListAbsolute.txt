@@ -1,0 +1,32 @@
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.exe
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.deps.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.runtimeconfig.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.runtimeconfig.dev.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\ref\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\bin\Debug\net5.0\LinkedList-Leet Code.pdb
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.csprojAssemblyReference.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.AssemblyInfoInputs.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.AssemblyInfo.cs
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.csproj.CoreCompileInputs.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\ref\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.pdb
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code\obj\Debug\net5.0\LinkedList-Leet Code.genruntimeconfig.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.exe
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.deps.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.runtimeconfig.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.runtimeconfig.dev.json
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\bin\Debug\net5.0\LinkedList-Leet Code.pdb
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.csproj.AssemblyReference.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.AssemblyInfoInputs.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.AssemblyInfo.cs
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.csproj.CoreCompileInputs.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\refint\LinkedList-Leet Code.dll
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.pdb
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\LinkedList-Leet Code.genruntimeconfig.cache
+C:\Users\ZahraZa\source\repos\LinkedList-Leet Code - Copy\obj\Debug\net5.0\ref\LinkedList-Leet Code.dll

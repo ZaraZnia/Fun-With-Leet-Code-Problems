@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5G0f9R2/M32ekeno/HdxnqBE+v2JJN+6CWuCxtk5KKjjBZZuLa+1sMcBueIRoDQSLvG5uLSR1Ra9uB+qqecVVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZahraZa\\source\\repos\\LinkedList-Leet Code - Copy\\LinkedList-Leet Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZahraZa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
