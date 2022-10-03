@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZahraZa\\source\\repos\\LinkedList-Leet Code - Copy\\LinkedList-Leet Code.csproj",
+      "projectUniqueName": "C:\\Users\\ZahraZa\\Documents\\GitHub\\Fun-With-Leet-Code-Problems\\LinkedList-Leet Code\\LinkedList-Leet Code.csproj",
       "projectName": "LinkedList-Leet Code",
-      "projectPath": "C:\\Users\\ZahraZa\\source\\repos\\LinkedList-Leet Code - Copy\\LinkedList-Leet Code.csproj",
+      "projectPath": "C:\\Users\\ZahraZa\\Documents\\GitHub\\Fun-With-Leet-Code-Problems\\LinkedList-Leet Code\\LinkedList-Leet Code.csproj",
       "packagesPath": "C:\\Users\\ZahraZa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZahraZa\\source\\repos\\LinkedList-Leet Code - Copy\\obj\\",
+      "outputPath": "C:\\Users\\ZahraZa\\Documents\\GitHub\\Fun-With-Leet-Code-Problems\\LinkedList-Leet Code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

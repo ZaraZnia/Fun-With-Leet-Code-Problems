@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace LinkedList_Leet_Code
 {
+    /// <summary>
+    /// Main answer
+    /// </summary>
     public class Solution
     {
         public string GetFinalResult(LinkedList<ListNode> listNodes1, LinkedList<ListNode> listNodes2)
         {
             List<int> listNodes = AddTwoLinkedList(listNodes1, listNodes2);
 
-            //listNodes.Reverse();
             var Result = GetNodesSumString(listNodes);
 
             return Result;
@@ -50,7 +52,10 @@ namespace LinkedList_Leet_Code
                     surplus = AddResult.transfered;
 
                     if (node1.next != null)
+                    {
                         node1.next.val += surplus;
+                        surplus = 0;
+                    }
                 }
 
                 if (largeList.Count > 0)

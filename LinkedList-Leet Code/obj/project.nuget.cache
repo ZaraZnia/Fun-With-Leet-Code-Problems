@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G0f9R2/M32ekeno/HdxnqBE+v2JJN+6CWuCxtk5KKjjBZZuLa+1sMcBueIRoDQSLvG5uLSR1Ra9uB+qqecVVA==",
+  "dgSpecHash": "0THUv9B/0agmkZuPbEcmiiaGBULKh2mTZJFylu4FrnmaLZAmDo9wMZJOegzTSlx+S+ENw2l+tkP7eG6fadn/Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZahraZa\\source\\repos\\LinkedList-Leet Code - Copy\\LinkedList-Leet Code.csproj",
+  "projectFilePath": "C:\\Users\\ZahraZa\\Documents\\GitHub\\Fun-With-Leet-Code-Problems\\LinkedList-Leet Code\\LinkedList-Leet Code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZahraZa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

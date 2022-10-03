@@ -12,7 +12,7 @@ namespace LinkedList_Leet_Code
         {
             List<int> listNodes = AddTwoLinkedList(listNodes1, listNodes2);
 
-            listNodes.Reverse();
+            //listNodes.Reverse();
             var Result = GetNodesSumValue(listNodes);
 
             return Result;
@@ -20,14 +20,9 @@ namespace LinkedList_Leet_Code
 
         private List<int> AddTwoLinkedList(List<ListNode> listNodes1, List<ListNode> listNodes2)
         {
-
             ListNode[] nodesArray1 = new ListNode[listNodes1.Count + 1];
             ListNode[] nodesArray2 = new ListNode[listNodes2.Count + 1];
-            //ListNode[] resultLinkList = new ListNode[listNodes1.Count + listNodes2.Count];
             List<int> resultList = new List<int>();
-
-            //listNodes1.Reverse();
-            //listNodes2.Reverse();
 
             listNodes1.CopyTo(nodesArray1, 0);
             listNodes2.CopyTo(nodesArray2, 0);
@@ -51,9 +46,10 @@ namespace LinkedList_Leet_Code
                 if (AddResult.transfered > 0)
                 {
                     node.val += AddResult.transfered;
+                    AddResult.transfered = 0;
                 }
 
-                if (i == len - 1)
+                if (i == len - 1 && node.val != 0)
                 {
                     resultList.Add(node.val);
                 }
